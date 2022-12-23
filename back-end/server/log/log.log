@@ -1,0 +1,14 @@
+2022-10-08 16:48:17.534  INFO 3064 --- [main] top.lucheng.server.mapper.MapperTest     : Starting MapperTest using Java 1.8.0_333 on LAPTOP-RTMIM8GU with PID 3064 (started by 61580 in D:\3_Project\lu_cheng\server)
+2022-10-08 16:48:17.561  INFO 3064 --- [main] top.lucheng.server.mapper.MapperTest     : No active profile set, falling back to 1 default profile: "default"
+2022-10-08 16:48:19.511  INFO 3064 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-08 16:48:20.316  INFO 3064 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-08 16:48:21.174  INFO 3064 --- [main] top.lucheng.server.mapper.MapperTest     : Started MapperTest in 4.035 seconds (JVM running for 6.189)
+2022-10-08 16:48:21.724  INFO 3064 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-08 16:48:21.746  INFO 3064 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-10-08 16:50:07.122  INFO 24260 --- [main] top.lucheng.server.mapper.MapperTest     : Starting MapperTest using Java 1.8.0_333 on LAPTOP-RTMIM8GU with PID 24260 (started by 61580 in D:\3_Project\lu_cheng\server)
+2022-10-08 16:50:07.123  INFO 24260 --- [main] top.lucheng.server.mapper.MapperTest     : No active profile set, falling back to 1 default profile: "default"
+2022-10-08 16:50:08.959  INFO 24260 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-10-08 16:50:09.788  INFO 24260 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-10-08 16:50:10.717  INFO 24260 --- [main] top.lucheng.server.mapper.MapperTest     : Started MapperTest in 3.977 seconds (JVM running for 4.997)
+2022-10-08 16:50:11.193  INFO 24260 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-10-08 16:50:11.205  INFO 24260 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed

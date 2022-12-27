@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="top.lucheng.server.mapper.BuslineMarkMapper">
+
+    <resultMap id="BaseResultMap" type="top.lucheng.server.pojo.BuslineMark">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <id property="uid" column="uid" jdbcType="INTEGER"/>
+            <result property="cityid" column="cityid" jdbcType="VARCHAR"/>
+            <result property="busLinestrid" column="bus_linestrid" jdbcType="VARCHAR"/>
+            <result property="busLinenum" column="bus_linenum" jdbcType="VARCHAR"/>
+            <result property="busStaname" column="bus_staname" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,uid,cityid,
+        bus_linestrid,bus_linenum,bus_staname
+    </sql>
+</mapper>
